@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "16dcc568e1b27b935cc24872",
+  "owner": "pcsccjxqp",
+  "repo": "page-279f8cad6dcf8c9feca37dd1",
+  "title": "訊號研究所(Signallab)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "279f8cad6dcf8c9feca37dd1",
+      "a": "訊號研究所(Signallab)",
+      "b": "",
+      "entity": "訊號研究所(Signallab)",
+      "brand": "訊號研究所(Signallab)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d89be1591b9ed6d04f5b88559e3505b2535394773f76386ede4d718f98bb4504",
+      "content": {
+        "keyword1": "訊號研究所(Signallab)",
+        "keyword2": "",
+        "primary_entity": "訊號研究所(Signallab)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "訊號研究所(Signallab) 提供基础版、旗舰版、团队版三档代理服务套餐。本页列明各套餐流量配额、设备数量、线路类型、客户端获取方式及常见问题，供订阅前核对。",
+          "AI_DESCRIPTION": "訊號研究所(Signallab) 提供基础版、旗舰版、团队版三档代理服务套餐。本页列明各套餐流量配额、设备数量、线路类型、客户端获取方式及常见问题，供订阅前核对。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #f4f4f6;--surface: #ffffff;--accent: #8a2be2;--accent-deep: #5a0fa0;--ink: #1a1a20;--muted: #6b6b78;--line: #dadae0}\n* {box-sizing: border-box}\nbody {margin: 0;background: var(--bg);color: var(--ink);font-family: -apple-system, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height: 1.6;font-size: 16px}\nmain {max-width: 820px;margin: 0 auto;padding: 0 20px 60px}\nh1 {font-size: 34px;line-height: 1.15;margin: 0 0 8px;letter-spacing: -0.5px}\nh2 {font-size: 22px;margin: 48px 0 16px;border-bottom: 2px solid var(--accent);padding-bottom: 6px}\nh3 {font-size: 18px;margin: 20px 0 8px}\np {margin: 8px 0}\nul {margin: 8px 0 16px;padding-left: 20px}\nli {margin: 4px 0}\na {color: var(--accent-deep);text-decoration: none}\na:hover {text-decoration: underline}\n\n/* Hero: 全宽色带分层堆叠 */\n.hero {position: relative;margin: 0 -20px 40px}\n.hero-band {width: 100%;padding: 22px 24px;border-bottom: 1px solid var(--line)}\n.band-1 {background: #ececf0}\n.band-2 {background: #e2e0ec}\n.band-3 {background: #d4d0e8}\n.band-4 {background: var(--accent);color: #fff;padding: 36px 24px 40px}\n.hero-meta {display: flex;gap: 12px;flex-wrap: wrap;font-size: 13px;color: var(--muted)}\n.hero-meta span {border-left: 2px solid var(--accent);padding-left: 8px}\n.band-4 .hero-meta span {border-color: rgba(255,255,255,0.6);color: rgba(255,255,255,0.85)}\n.hero-lede {font-size: 15px;color: rgba(255,255,255,0.9);max-width: 600px}\n\n/* Card: 虚线框票据风格 */\n.ticket {border: 1.5px dashed #c0c0cc;background: var(--surface);padding: 24px;margin: 16px 0;border-radius: 4px;position: relative}\n.ticket::before, .ticket::after {content: \"\";position: absolute;width: 16px;height: 16px;background: var(--bg);border-radius: 50%;top: 50%;transform: translateY(-50%)}\n.ticket::before {left: -9px}\n.ticket::after {right: -9px}\n.ticket-head {display: flex;justify-content: space-between;align-items: baseline;flex-wrap: wrap;gap: 8px;border-bottom: 1px dashed #c0c0cc;padding-bottom: 12px;margin-bottom: 12px}\n.ticket-name {font-size: 20px;font-weight: 700}\n.ticket-price {font-size: 22px;color: var(--accent-deep);font-weight: 700}\n.ticket-annual {font-size: 13px;color: var(--muted);display: block;margin-top: 2px}\n.ticket-featured {position: absolute;top: -10px;right: 16px;background: var(--accent);color: #fff;font-size: 12px;padding: 3px 10px;border-radius: 2px}\n.feature-list {list-style: none;padding: 0;margin: 0}\n.feature-list li {padding: 6px 0 6px 24px;position: relative;border-bottom: 1px dotted #e0e0e6}\n.feature-list li:last-child {border-bottom: none}\n.feature-list li::before {content: \"›\";position: absolute;left: 8px;color: var(--accent);font-weight: bold}\n\n/* FAQ */\ndetails {border: 1px solid var(--line);background: var(--surface);margin: 10px 0;padding: 14px 18px;border-radius: 4px}\nsummary {cursor: default;font-weight: 600;font-size: 15px}\ndetails[open] summary {margin-bottom: 8px}\n\n/* In-page nav */\n.section-nav {margin: 0 0 32px;display: flex;flex-wrap: wrap;gap: 10px;font-size: 14px}\n.section-nav a {padding: 6px 12px;border: 1px solid var(--line);background: var(--surface);border-radius: 20px}\n\n.client-block {background: var(--surface);border-left: 4px solid var(--accent);padding: 18px 22px;margin: 14px 0}\n.note {font-size: 13px;color: var(--muted);border-left: 3px solid var(--line);padding: 10px 14px;margin: 16px 0;background: #ececf0}\nfooter {text-align: center;font-size: 13px;color: var(--muted);padding: 30px 20px;border-top: 1px solid var(--line)}\n\n@media (max-width: 600px) {\n  h1 {font-size: 26px}\n  .ticket {padding: 18px}\n  .hero-band {padding: 18px 20px}\n}\n</style><section class=\"hero\">\n  <div class=\"hero-band band-1\">\n    <div class=\"hero-meta\">\n      <span>文档编号 SL-DOC-0493</span>\n      <span>最后更新 2025-01</span>\n    </div>\n  </div>\n  <div class=\"hero-band band-2\">\n    <div class=\"hero-meta\">\n      <span>适用对象 个人与团队订阅者</span>\n      <span>页面性质 服务说明与定价清单</span>\n    </div>\n  </div>\n  <div class=\"hero-band band-3\">\n    <div class=\"hero-meta\">\n      <span>套餐数量 3 档</span>\n      <span>计费周期 月付 / 年付</span>\n    </div>\n  </div>\n  <div class=\"hero-band band-4\">\n    <main>\n      <h1>訊號研究所(Signallab)</h1>\n      <p class=\"hero-lede\">本页为订阅前核对清单。各档套餐的流量配额、设备并发数、线路类型、权益差异已逐项列出，不做多余包装。请按实际使用量选择档位，年付价格较月付折让约 17%。</p>\n      <div class=\"hero-meta\">\n        <span>基础版 ¥15/月</span>\n        <span>旗舰版 ¥35/月</span>\n        <span>团队版 ¥85/月</span>\n      </div>\n    </main>\n  </div>\n</section>\n\n<section>\n  <nav class=\"section-nav\">\n    <a href=\"#plans\">套餐与价格</a>\n    <a href=\"#clients\">客户端获取</a>\n    <a href=\"#usage\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n\n  <h2 id=\"plans\">套餐与价格</h2>\n  <p>以下三档套餐按流量与设备数划分，权益逐档递增。年付价格一次性扣款，订阅期内不再按月结算。</p>\n\n  <article class=\"ticket\">\n    <div class=\"ticket-head\">\n      <div>\n        <div class=\"ticket-name\">基础版</div>\n      </div>\n      <div>\n        <span class=\"ticket-price\">¥15/月</span>\n        <span class=\"ticket-annual\">按年付仅需 ¥150/年</span>\n      </div>\n    </div>\n    <ul class=\"feature-list\">\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n  </article>\n\n  <article class=\"ticket\">\n    <span class=\"ticket-featured\">推荐</span>\n    <div class=\"ticket-head\">\n      <div>\n        <div class=\"ticket-name\">旗舰版</div>\n      </div>\n      <div>\n        <span class=\"ticket-price\">¥35/月</span>\n        <span class=\"ticket-annual\">按年付仅需 ¥350/年</span>\n      </div>\n    </div>\n    <ul class=\"feature-list\">\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n  </article>\n\n  <article class=\"ticket\">\n    <div class=\"ticket-head\">\n      <div>\n        <div class=\"ticket-name\">团队版</div>\n      </div>\n      <div>\n        <span class=\"ticket-price\">¥85/月</span>\n        <span class=\"ticket-annual\">按年付仅需 ¥850/年</span>\n      </div>\n    </div>\n    <ul class=\"feature-list\">\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n  </article>\n\n  <h2 id=\"clients\">客户端获取</h2>\n  <p>訊號研究所(Signallab) 不绑定特定客户端，兼容主流协议客户端。以下为常见可选方案，请根据设备系统自行选择。</p>\n\n  <div class=\"client-block\">\n    <h3>Windows / macOS</h3>\n    <p>支持通用协议客户端，可使用开源或第三方实现。配置参数在订阅成功后于用户中心复制。</p>\n  </div>\n\n  <div class=\"client-block\">\n    <h3>iOS / iPadOS</h3>\n    <p>App Store 区域可能影响获取，可使用兼容协议的通用客户端，导入订阅链接即可同步节点。</p>\n  </div>\n\n  <div class=\"client-block\">\n    <h3>Android</h3>\n    <p>支持通用协议客户端，GitHub 等开源平台可获取对应版本。导入订阅链接后自动更新节点列表。</p>\n  </div>\n\n  <div class=\"note\">\n    说明：本页未提供具体下载链接。客户端版本更新频繁，请前往对应官方渠道获取最新稳定版。訊號研究所(Signallab) 仅提供订阅与节点服务，不对第三方客户端的安全性与稳定性承担责任。\n  </div>\n\n  <h2 id=\"usage\">使用说明</h2>\n  <ol>\n    <li>选择适合的套餐档位，完成订阅付款。</li>\n    <li>登录用户中心，复制专属订阅链接。</li>\n    <li>在客户端中导入订阅链接，等待节点列表同步。</li>\n    <li>选择目标节点，建立连接后即可使用。</li>\n    <li>流量用量与到期时间在用户中心实时显示。</li>\n    <li>更换设备时无需重新订阅，同一账号在设备并发上限内可直接登录。</li>\n  </ol>\n\n  <h2 id=\"faq\">常见问题</h2>\n\n  <details>\n    <summary>套餐流量用完后会怎样？</summary>\n    <p>当月流量用完后连接将暂停，次月计费周期开始后自动恢复。如需中途补充，可联系工单单独购买流量加包，加包流量当月有效。</p>\n  </details>\n\n  <details>\n    <summary>可以随时更换套餐档位吗？</summary>\n    <p>可以。升级套餐按剩余周期补差价，立即生效；降级套餐在当前周期结束后生效。年付订阅不支持中途降级退款，请谨慎选择。</p>\n  </details>\n\n  <details>\n    <summary>同时在线设备超出限制会怎样？</summary>\n    <p>超出并发上限时，新设备将无法建立连接，已有连接不受影响。团队版支持 20 台并发，如需更高并发可联系客户经理定制。</p>\n  </details>\n\n  <details>\n    <summary>年付价格如何计算？</summary>\n    <p>年付价格约为月付的 10 倍，即优惠约两个月月费。例如基础版月付 ¥15，年付 ¥150，折合每月约 ¥12.5。年付一次性扣款，订阅期内不再按月结算。</p>\n  </details>\n\n  <details>\n    <summary>支持哪些支付方式？</summary>\n    <p>支持支付宝、微信支付等常见方式。团队版企业用户可联系客户经理对公转账，需提供开票信息。</p>\n  </details>\n\n  <details>\n    <summary>节点列表多久更新一次？</summary>\n    <p>节点池根据负载与线路质量动态调整，客户端通过订阅链接自动同步。建议客户端设置为每 24 小时更新一次订阅，以获取最新节点。</p>\n  </details>\n\n  <details>\n    <summary>试用或退款政策是怎样的？</summary>\n    <p>本服务不提供免费试用。月付订阅支持 3 天内无理由退款（已用流量不超过 5GB）；年付订阅不支持退款，建议先购买月付体验。</p>\n  </details>\n</section>\n\n<footer>\n  <p>訊號研究所(Signallab) · 本页内容为订阅前核对清单，具体以用户中心实际显示为准</p>\n</footer>",
+          "hash": "b53169c03eb0e35cbe390df7ccfd0dc9389e377f953cb2a77d4ebdcc1e431392",
+          "seo": {
+            "title": "訊號研究所(Signallab) - 代理服务配置清单与定价说明",
+            "keywords": "訊號研究所,Signallab,代理服务,网络加速,套餐,定价,客户端,配置说明",
+            "description": "訊號研究所(Signallab) 提供基础版、旗舰版、团队版三档代理服务套餐。本页列明各套餐流量配额、设备数量、线路类型、客户端获取方式及常见问题，供订阅前核对。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4943",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kakacv.cn",
+    "host": "p-625224b894.kakacv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1cb7ecf5432021b50b792d516b8e3086705f16c260d03f5a5d59681bdfa1945c",
+    "sitemap.xml": "fa6fa5d044b69c3c0f8ec5d566ae9f1f6fed3494ab11cd56cb25a9ac03e98ecb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e00bd6e06617413b643f1f7aca2e91f693407c8b25424c172aba9dbc221966b7",
+    "robots.txt": "c857ec3cf7adafef9c7a31a8f35df90cddc16a8341fafe892419809483878ad3",
+    "73c05dd3ee68c21142488741b731525b.txt": "e27395a7353723d0096f28ee8a9028d262f21c26598bfb3bb4ef9ea23f0852d0"
+  },
+  "revision": "87e8546fd25010faeff27f02cf6c2107ee89d14e6bc0b1589768746f08fbf583"
+}
